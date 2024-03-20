@@ -1,4 +1,4 @@
-#Proměnné, které jsou vytvořeny mimo funkci (jako ve všech výše uvedených příkladech), jsou známé jako globální proměnné.
+#Proměnné, které jsou vytvořeny mimo funkci, jsou známé jako globální proměnné.
 #Globální proměnné může používat každý, uvnitř funkcí i mimo ně.
 x = "awesome"
 
